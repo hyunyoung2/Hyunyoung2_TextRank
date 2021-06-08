@@ -2,6 +2,7 @@
 
 This repository simly run textrank algorithm based on [the website](https://www.analyticsvidhya.com/blog/2018/11/introduction-text-summarization-textrank-python/)
 
+All codes of this repository follow the textran tutorial of [the website](https://www.analyticsvidhya.com/blog/2018/11/introduction-text-summarization-textrank-python/)
 
 The websit intuitively explained how for textrank to work.
 
